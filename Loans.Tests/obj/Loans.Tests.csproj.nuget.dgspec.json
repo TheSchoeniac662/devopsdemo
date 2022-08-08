@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans.Tests\\Loans.Tests.csproj": {}
+  },
+  "projects": {
+    "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans.Tests\\Loans.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans.Tests\\Loans.Tests.csproj",
+        "projectName": "Loans.Tests",
+        "projectPath": "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans.Tests\\Loans.Tests.csproj",
+        "packagesPath": "C:\\Users\\TS98420\\.nuget\\packages\\",
+        "outputPath": "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TS98420\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexusrepodirect.thehartford.com/repository/nuget-group/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans\\Loans.csproj": {
+                "projectPath": "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans\\Loans.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans\\Loans.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans\\Loans.csproj",
+        "projectName": "Loans",
+        "projectPath": "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans\\Loans.csproj",
+        "packagesPath": "C:\\Users\\TS98420\\.nuget\\packages\\",
+        "outputPath": "H:\\Development\\Software Engineer Course Materials\\.NET\\Moq NUnit\\demos\\before\\01FirstTest\\Loans\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TS98420\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexusrepodirect.thehartford.com/repository/nuget-group/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.AssemblyReference.cache
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.CoreCompileInputs.cache
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.pdb
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.AssemblyReference.cache
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.GeneratedMSBuildEditorConfig.editorconfig
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.CoreCompileInputs.cache
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans\obj\Debug\netcoreapp2.1\Loans.pdb

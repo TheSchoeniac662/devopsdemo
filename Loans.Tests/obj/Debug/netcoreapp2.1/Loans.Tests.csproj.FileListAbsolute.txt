@@ -1,0 +1,38 @@
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.deps.json
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.runtimeconfig.json
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.runtimeconfig.dev.json
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.dll
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.pdb
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.dll
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.pdb
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csproj.AssemblyReference.cache
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.AssemblyInfoInputs.cache
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.AssemblyInfo.cs
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csproj.CoreCompileInputs.cache
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csproj.CopyComplete
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.dll
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.pdb
+C:\Users\TS98420\WorkSpace\02\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.genruntimeconfig.cache
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.deps.json
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.runtimeconfig.json
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.runtimeconfig.dev.json
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.dll
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.Tests.pdb
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.dll
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\bin\Debug\netcoreapp2.1\Loans.pdb
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csproj.AssemblyReference.cache
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.GeneratedMSBuildEditorConfig.editorconfig
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.AssemblyInfoInputs.cache
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.AssemblyInfo.cs
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csproj.CoreCompileInputs.cache
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.csproj.CopyComplete
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.dll
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.pdb
+H:\Development\Software Engineer Course Materials\.NET\Moq NUnit\demos\before\01FirstTest\Loans.Tests\obj\Debug\netcoreapp2.1\Loans.Tests.genruntimeconfig.cache
